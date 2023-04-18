@@ -23,6 +23,7 @@ Information and resources, clinical consultation, advocacy and service coordinat
 ## Self Care Resources and Impacted Person Education 
 
 [Mindful NOAA](https://sites.google.com/noaa.gov/mindful-noaa-collaboration/home)
+
 [WVPR Website](http://sites.google.com/noaa.gov/wvpr/home)
 Go to internal site to the Trainings and Webinars. Scroll down to Workplace Wellness Recorded Webinars. Has plenty of webinars on a variety of subjects to understand impacts of SASH, helpful language, bystander intervention and much more.
 
